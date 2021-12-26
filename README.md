@@ -7,7 +7,7 @@ Personal TEPS strategy
 
 # New TEPS 시험구성 및 유형설명
 
-<img src="/images/문제유형.jpg"/><br/>
+<img src="/images/문제유형.jpg" width="70" height="70%"/><br/>
 
 # Reading Comprehension 문제풀이 순서
 
