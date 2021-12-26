@@ -21,4 +21,4 @@ Personal TEPS strategy
 >   |__ 1지문 2문제
 > 5. **Part 1 -> 1~10번**<br/>
 >   |__ 9, 10번(접속사 문제) -> 1~6번 -> 7,8번(시간 남으면)
-> 6. **<span style="color:red">24, 25 / 34, 35 풀지 말 것</span>**
+> 6. <span style="color:red">24, 25 / 34, 35 풀지 말 것</span>
