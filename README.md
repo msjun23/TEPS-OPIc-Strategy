@@ -24,3 +24,8 @@ Personal TEPS strategy
 > 5. **Part 1 -> 1~10번**<br/>
 >   |__ 9, 10번(접속사 문제) -> 1~6번 -> 7,8번(시간 남으면)
 > 6. **24, 25 / 34, 35 풀지 말 것**
+
+---
+
+# OPIc-Strategy
+Personal OPIc strategy
