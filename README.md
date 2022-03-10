@@ -1,9 +1,11 @@
+# Index
+1. [TEPS](https://github.com/msjun23/TEPS-OPIc-Strategy#teps-strategy)
+2. [OPIc]()
+
 # TEPS-Strategy
 Personal TEPS strategy
 
 **Info at this page is guarantee nothing.** Information about TEPS is based on [official TEPS site](https://www.teps.or.kr/) and some strategy or tip is from google search.
-
----
 
 # New TEPS 시험구성 및 유형설명
 
@@ -29,3 +31,4 @@ Personal TEPS strategy
 
 # OPIc-Strategy
 Personal OPIc strategy
+
