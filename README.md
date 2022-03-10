@@ -1,19 +1,21 @@
 # Index
 1. [TEPS](https://github.com/msjun23/TEPS-OPIc-Strategy#teps-strategy)
-2. [OPIc]()
+2. [OPIc](https://github.com/msjun23/TEPS-OPIc-Strategy#opic-strategy)
+
+---
 
 # TEPS-Strategy
 Personal TEPS strategy
 
 **Info at this page is guarantee nothing.** Information about TEPS is based on [official TEPS site](https://www.teps.or.kr/) and some strategy or tip is from google search.
 
-# New TEPS 시험구성 및 유형설명
+## New TEPS 시험구성 및 유형설명
 
 <img src="/images/문제유형.jpg" width="80%" height="80%"/><br/>
 
-# Reading Comprehension 문제풀이 순서
+## Reading Comprehension 문제풀이 순서
 
-> ## 35문항, 240점, 40분
+> ### 35문항, 240점, 40분
 >
 > 1. **Part 3 -> 13~16번**<br/>
 >   |__ 토픽 맞추기, 5분
